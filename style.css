@@ -1,0 +1,35 @@
+body {
+  background: white;
+  color: black;
+  padding: 25px;
+  font-family: sans-serif;
+
+}
+
+p{
+  word-spacing: 1px;
+  font-family: sans-serif;
+}
+
+img {
+  border: 2px solid black;
+  height: fit;
+}
+
+a:hover{
+  color: orange;
+}
+
+#links{
+  word-spacing: 2;
+}
+
+h1.name{
+  color: orange;
+}
+
+h1#name{
+  font-family: 'Roboto Slab';
+  color: pink;
+}
+
